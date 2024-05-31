@@ -194,7 +194,7 @@ table.preparation tr{
     
   }
 
-  @media only screen and (min-width: 90px){
+  @media only screen and (min-width: 900px){
     div.contenu{
         margin-left: auto;
         margin-right: auto;
